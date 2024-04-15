@@ -1,0 +1,471 @@
+Drugs_no,Drug
+0,Amoxicillin
+1,Amoxicillin-Pot Clavulanate
+2,Ampicillin
+3,Ampicillin Sodium
+4,Azithromycin
+5,Clarithromycin
+6,Erythromycin
+7,Erythromycin Ethylsuccinate
+8,Erythromycin Stearate
+9,Levofloxacin
+10,Moxifloxacin
+11,Moxifloxacin-Sod.Chloride(Iso)
+12,Alclometasone
+13,Amcinonide
+14,"Betamethasone Acet,Sod Phos"
+15,Betamethasone Dipropionate
+16,Betamethasone Valerate
+17,"Betamethasone, Augmented"
+18,"Betamethasone, Augmented, Betamethasone Dipropionate"
+19,Cetirizine
+20,Clobetasol
+21,Clobetasol-Emollient
+22,Cortisone
+23,Desonide
+24,Desonide-Emollient Combo No 28
+25,"Desonide-Emollient Combo No 28, Desonide"
+26,Desoximetasone
+27,Dexamethasone
+28,Dexamethasone Sodium Phos (PF)
+29,Dexamethasone Sodium Phosphate
+30,Diflorasone
+31,Diflorasone-Emollient
+32,Doxepin
+33,Fluocinolone
+34,Fluocinolone And Shower Cap
+35,Fluocinolone-Emol Cmb#65
+36,Fluocinolone-Skin Clnsr28
+37,Fluocinonide
+38,Fluocinonide-Emollient
+39,Flurandrenolide
+40,Fluticasone Propionate
+41,Halobetasol Propionate
+42,Hydrocortisone
+43,Hydrocortisone Acetate
+44,Hydrocortisone Butyr-Emollient
+45,Hydrocortisone Butyrate
+46,Hydrocortisone Probutate
+47,Hydrocortisone Sod Succ (PF)
+48,Hydrocortisone Sod Succinate
+49,Hydrocortisone Valerate
+50,"Hydrocortisone, Pramoxine-Benzyl Alcohol"
+51,Hydrocortisone-Iodoquinl-Aloe2
+52,Hydrocortisone-Iodoquinol
+53,Hydrocortisone-Oatmeal-Aloe-E
+54,"Hydrocortisone-Pramoxine, Hydrocortisone"
+55,Methylprednisolone
+56,Methylprednisolone Acetate
+57,Mometasone
+58,Pimecrolimus
+59,Prednicarbate
+60,Prednisolone
+61,Prednisolone Sodium Phosphate
+62,"Prednisolone, Prednisolone Sodium Phosphate"
+63,Prednisone
+64,"Salicylic Acid, Hydrocortisone"
+65,Tacrolimus
+66,Triamcinolone Acetonide
+67,Triamcinolone-Emollient Comb86
+68,Vit E-Glycerin-Dimethicone
+69,"Vit E-Glycerin-Dimethicone, Glycerin-Dimethicone-Petro, Wh"
+70,Vit E-Grape-Hyaluronate Sodium
+71,Bacitracin
+72,Bacitracin-Polymyxin B
+73,Besifloxacin
+74,Ciprofloxacin Hcl
+75,Gatifloxacin
+76,Gentamicin
+77,Gentamicin-Prednisolone
+78,Neomycin-Bacitracin-Polymyxin
+79,Neomycin-Polymyxin-Gramicidin
+80,Ofloxacin
+81,Sulfacetamide Sodium
+82,Sulfacetamide-Prednisolone
+83,Acetohydroxamic Acid
+84,Amikacin
+85,Aztreonam
+86,Cefaclor
+87,Cefadroxil
+88,Cefazolin
+89,Cefazolin In Dextrose (Iso-Os)
+90,Cefdinir
+91,Cefepime
+92,"Cefepime In Dextrose,Iso-Osm"
+93,Cefixime
+94,Ceftazidime
+95,Ceftriaxone
+96,"Ceftriaxone In Dextrose,Iso-Os"
+97,Cefuroxime Axetil
+98,Cefuroxime Sodium
+99,Cephalexin
+100,Ciprofloxacin
+101,"Ciprofloxacin Hcl, Ciprofloxacin"
+102,Ciprofloxacin In 5 % Dextrose
+103,Demeclocycline
+104,Doxycycline Calcium
+105,"Doxycycline Calcium, Doxycycline Hyclate, Doxycycline Monohydrate"
+106,Doxycycline Hyclate
+107,Doxycycline Monohydrate
+108,Fosfomycin Tromethamine
+109,Imipenem-Cilastatin
+110,Levofloxacin In D5W
+111,Minocycline
+112,Nitrofurantoin
+113,Nitrofurantoin Macrocrystal
+114,Nitrofurantoin Monohyd/M-Cryst
+115,Streptomycin
+116,Sulfadiazine
+117,Sulfamethoxazole-Trimethoprim
+118,Trimethoprim
+119,Aripiprazole
+120,Paliperidone
+121,Risperidone
+122,Oseltamivir
+123,Zanamivir
+124,Cefditoren Pivoxil
+125,Cefpodoxime
+126,Cefprozil
+127,"Penicillin G Benzathin,Procain"
+128,Penicillin G Benzathine
+129,Penicillin V Potassium
+130,Armodafinil
+131,Modafinil
+132,Capecitabine
+133,Cisplatin
+134,Doxorubicin
+135,Fluorouracil
+136,Gemcitabine
+137,Mitomycin
+138,Oxaliplatin
+139,Paclitaxel-Protein Bound
+140,"ASA-Acetaminophen-Salicyl-Caff, Mg Salicylat-Acetaminophen-Caf"
+141,Acetaminophen
+142,Aspirin-Acetaminophen-Caffeine
+143,Capsaicin
+144,Capsaicin In Castor Oil
+145,Capsaicin-Camphor-Menthol
+146,"Capsaicin-Menthol, Capsaicin"
+147,Capsaicin-Methyl Sal-Menthol
+148,"Cpm-PPA-DM-Acetaminophen, Acetaminophen"
+149,Menthol
+150,"Menthol, Camphor-Methyl Salicyl-Menthol"
+151,"Menthol, Capsaicin"
+152,"Menthol-Camphor-Antarth Cb#1, Methyl Salicylate-Menthol, Camphor-Menthol, Camphor-Methyl Salicyl-Menthol"
+153,Trolamine Salicylate
+154,"Trolamine Salicylate, Ala-Bos-Gin-Bas-Rose-Tur-Wil"
+155,Trolamine Salicylate-Aloe Vera
+156,Ursodiol
+157,Acyclovir
+158,Acyclovir Sodium
+159,Valacyclovir
+160,Amitriptyline
+161,Amoxapine
+162,Clomipramine
+163,Desipramine
+164,Fluvoxamine
+165,Imipramine Hcl
+166,Imipramine Pamoate
+167,Maprotiline
+168,Nortriptyline
+169,Phenelzine
+170,Protriptyline
+171,Ampicillin-Sulbactam
+172,Clindamycin In 5 % Dextrose
+173,Clindamycin Phosphate
+174,Meropenem
+175,Metronidazole
+176,Metronidazole In Nacl (Iso-Os)
+177,Piperacillin-Tazobactam
+178,Tigecycline
+179,Acetazolamide
+180,Amiloride-Hydrochlorothiazide
+181,Bumetanide
+182,Chlorothiazide
+183,Chlorthalidone
+184,Ethacrynic Acid
+185,Furosemide
+186,Hydrochlorothiazide
+187,Indapamide
+188,Spironolacton-Hydrochlorothiaz
+189,Spironolactone
+190,Torsemide
+191,Triamterene
+192,Triamterene-Hydrochlorothiazid
+193,"Triamterene-Hydrochlorothiazid, Trichlormethiazide"
+194,Danazol
+195,Goserelin
+196,L Norgest/E.Estradiol-E.Estrad
+197,Levonorg-Eth Estrad Triphasic
+198,Levonorgestrel-Ethinyl Estrad
+199,Medroxyprogesterone
+200,Nafarelin
+201,Noreth-Ethinyl Estradiol-Iron
+202,Norethin-E.Estradiol Triphasic
+203,"Norethin-E.Estradiol Triphasic, Norethindrone-Ethin Estradiol"
+204,Norethin-Eth Estrad Biphasic
+205,Norethindrone Ac-Eth Estradiol
+206,Norethindrone Acetate
+207,Norethindrone-E.Estradiol-Iron
+208,Norethindrone-Ethin Estradiol
+209,Norgestimate-Ethinyl Estradiol
+210,Norgestrel-Ethinyl Estradiol
+211,Triptorelin Pamoate
+212,ASA-Acetaminophen-Salicyl-Caff
+213,Acetaminophen-Caffeine
+214,Acetaminophen-DM
+215,"Acetaminophen-Pamabrom, Ibuprofen"
+216,Aspirin
+217,"Aspirin, Buffered"
+218,"Aspirin-Acetaminophen-Caffeine, Aspirin, Phenyltoloxamine-Acetaminophen"
+219,Aspirin-Calcium Carbonate
+220,"Chlorphen-PE-DM-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen"
+221,"Chlorphenir-Phenylephrn-Aspirn, Diphenhydramine-Acetaminophen, Cpm-Phenyleph-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen"
+222,Chlorpheniram-DM-Acetaminophen
+223,Chlorpheniramine-Acetaminophen
+224,"Chlorpheniramine-Acetaminophen, Chlorphen-PPA-Acetaminophen"
+225,"Choline,Magnesium Salicylate"
+226,Cpm-PPA-DM-Acetaminophen
+227,Cpm-Pseudoeph-DM-Acetaminophen
+228,DM-PE-Acetam/DM-Acetam-Doxylam
+229,"Dextromethorphan-Guaifenesin, Guaifenesin, Cpm-Pseudoeph-DM-Acetaminophen"
+230,Doxylam-PE-DM-Acetaminophen-GG
+231,Doxylamin-PSE-DM-Acetaminophen
+232,"Doxylamin-PSE-DM-Acetaminophen, Chlorphen-PE-DM-Acetaminophen"
+233,Doxylamine-DM-Acetaminophen
+234,Doxylamine-PE-DM-Acetaminophen
+235,"Doxylamine-PE-DM-Acetaminophen, Diphenhydramine-PPA-ASA"
+236,Ibuprofen
+237,Indomethacin
+238,Naproxen
+239,Naproxen Sodium
+240,Naproxen-Pseudoephedrine
+241,Phenyleph-DM-Acetamin-Guaifen
+242,Phenylephrine-DM-Acetaminophen
+243,Phenyltoloxamine-Acetaminophen
+244,Pseudoeph-DM-GG-Acetaminophen
+245,"Pseudoeph-DM-GG-Acetaminophen, Chlorphen-PE-DM-Acetaminophen"
+246,"Pseudoeph-DM-GG-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen"
+247,Pseudoephed-DM-Acetaminophen
+248,"Pseudoephed-DM-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen"
+249,"Pseudoephed-DM-Acetaminophen, Phenylpropanolamine-GG, Chlorpheniramine-Pseudoephed"
+250,Pseudoephedrine-Ibuprofen
+251,"Pseudoephedrine-Ibuprofen, Brompheniram-PSE-Acetaminophen"
+252,"Pseudoephedrine-Ibuprofen, Ibuprofen"
+253,Cyclobenzaprine
+254,Duloxetine
+255,Milnacipran
+256,Mirtazapine
+257,Paroxetine Hcl
+258,Pramipexole
+259,Pregabalin
+260,Tramadol-Acetaminophen
+261,"Activated Charcoal-Simethicone, Simethicone"
+262,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Magaldrate, Aluminum-Magnesium Hydroxide, Calcium Carbonate-Mag Hydroxid, Aluminum Hydrox-Magnesium Carb, Calcium And Magnesium Carbonat, Aluminum-Magnesium-Alginate, Calcium Carbonate, Dihydroxyaluminum Sod Carb, Alum-Mag Hydroxide-Simeth"
+263,Alum-Mag Hydroxide-Simeth
+264,"Alum-Mag Hydroxide-Simeth, Calcium Carbonate-Simethicone"
+265,"Aluminum-Magnesium Hydroxide, Alum-Mag Hydroxide-Simeth"
+266,"Aluminum-Magnesium Hydroxide, Aluminum Hydrox-Magnesium Carb, Dihydroxyaluminum Sod Carb, Alum-Mag Hydroxide-Simeth"
+267,"Aluminum-Magnesium Hydroxide, Calcium Carbonate, Alum-Mag Hydroxide-Simeth"
+268,"Aluminum-Magnesium Hydroxide, Calcium Carbonate-Mag Hydroxid, Calcium And Magnesium Carbonat, Calcium Carbonate, Alum-Mag Hydroxide-Simeth"
+269,"Aluminum-Magnesium-Alginate, Alum-Mag Hydroxide-Simeth"
+270,"Calcium Carb-Mag Hydrox-Simeth, Alum-Mag Hydroxide-Simeth"
+271,Calcium Carbonate-Mag Hydroxid
+272,"Calcium Carbonate-Mag Hydroxid, Alum-Mag Hydroxide-Simeth"
+273,Calcium Carbonate-Simethicone
+274,Simethicone
+275,"Simethicone, Alpha-D-Galactosidase"
+276,Mupirocin
+277,"Mupirocin Calcium, Mupirocin"
+278,Al Hyd-Mg Tr-Alg Ac-Sod Bicarb
+279,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Aluminum Hydrox-Magnesium Carb, Aluminum-Magnesium-Alginate"
+280,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Aluminum Hydrox-Magnesium Carb, Aluminum-Magnesium-Alginate, Calcium Carbonate"
+281,Aluminum Hydrox-Magnesium Carb
+282,Aluminum Hydroxide Gel
+283,Aluminum-Magnesium Hydroxide
+284,"Calcium Carbonate-Mag Hydroxid, Calcium Carbonate, Dihydroxyaluminum Sod Carb"
+285,"Calcium Carbonate-Mag Hydroxid, Dihydroxyaluminum Sod Carb"
+286,Cimetidine
+287,Cimetidine Hcl
+288,Dexlansoprazole
+289,Esomeprazole Magnesium
+290,Esomeprazole Strontium
+291,Famotidine
+292,Famotidine-Ca Carb-Mag Hydrox
+293,Lansoprazole
+294,Magaldrate
+295,Magnesium Hydroxide
+296,Magnesium Oxide
+297,Metoclopramide Hcl
+298,Nizatidine
+299,Omeprazole
+300,Omeprazole Magnesium
+301,"Omeprazole, Omeprazole Magnesium"
+302,Omeprazole-Sodium Bicarbonate
+303,Pantoprazole
+304,Rabeprazole
+305,Ranitidine Hcl
+306,Sucralfate
+307,Acyclovir-Hydrocortisone
+308,Celecoxib
+309,Diclofenac Potassium
+310,Diclofenac Sodium
+311,Diclofenac-Misoprostol
+312,Diflunisal
+313,Etodolac
+314,Fenoprofen
+315,Flurbiprofen
+316,Ibuprofen-Famotidine
+317,Ketoprofen
+318,Meclofenamate
+319,Mefenamic Acid
+320,Meloxicam
+321,Oxaprozin
+322,Piroxicam
+323,Tolmetin
+324,"Bismuth Subg-Balsam-Znox-Resor, Starch, Pramoxine-Mineral Oil-Zinc"
+325,"Cocoa Butter-Zinc Oxide, Zinc Oxide"
+326,"Diphenhydramine-Calamine, Pramoxine-Calamine"
+327,"Hydrocortisone Acetate, Bismuth Subg-Balsam-Znox-Resor"
+328,"Hydrocortisone Acetate, Hydrocortison-Resor-Bismth-Zno, Hydrocortisone"
+329,Lidocaine
+330,Lidocaine-Hydrocortisone-Aloe
+331,Phenyleph-Min Oil-Petrolatum
+332,Phenyleph-Pramoxin-Glycr-W.Pet
+333,"Phenyleph-Shark Oil-Cocoa Butr, Skin Rsp Ftr-Srk Liv-Phenylmer, Phenyleph-Shark Liv Oil-Mo-Pet"
+334,"Phenyleph-Shark Oil-Glyc-Pet, Phenyleph-Min Oil-Petrolatum, Cocoa Butter-Shark Liver Oil"
+335,Phenylephrine Hcl
+336,"Phenylephrine Hcl, Bismuth Subg-Balsam-Znox-Resor"
+337,Phenylephrine-Cocoa Butter
+338,Phenylephrine-Witch Hazel
+339,"Phenylephrine-Zinc Oxide, Phenylephrn-Pramoxine-Mo-W.Pet"
+340,Pramoxine
+341,Pramoxine-Calamine
+342,"Pramoxine-Calamine-Camphor, Pramoxine-Calamine"
+343,Pramoxine-Zinc Acetate
+344,Pramoxine-Zinc Oxide
+345,"Starch, Pramoxine-Mineral Oil-Zinc"
+346,Zinc Oxide
+347,Famciclovir
+348,Alirocumab
+349,Amlodipine-Atorvastatin
+350,Atorvastatin
+351,Cholestyramine (With Sugar)
+352,Cholestyramine-Aspartame
+353,Colestipol
+354,Evolocumab
+355,Ezetimibe
+356,Ezetimibe-Simvastatin
+357,Fenofibrate
+358,Fenofibrate Micronized
+359,"Fenofibrate Micronized, Fenofibrate"
+360,"Fenofibrate Micronized, Fenofibrate Nanocrystallized"
+361,Fenofibrate Nanocrystallized
+362,Fenofibric Acid
+363,Fenofibric Acid (Choline)
+364,Fluvastatin
+365,Lovastatin
+366,Niacin
+367,Pitavastatin Calcium
+368,Pravastatin
+369,Rosuvastatin
+370,Simvastatin
+371,Acebutolol
+372,Aliskiren
+373,Amlodipine
+374,Amlodipine-Benazepril
+375,Amlodipine-Olmesartan
+376,Amlodipine-Valsartan
+377,Amlodipine-Valsartan-Hcthiazid
+378,Atenolol
+379,Atenolol-Chlorthalidone
+380,Azilsartan Med-Chlorthalidone
+381,Azilsartan Medoxomil
+382,Benazepril
+383,Benazepril-Hydrochlorothiazide
+384,Betaxolol
+385,Bisoprolol Fumarate
+386,Bisoprolol-Hydrochlorothiazide
+387,Candesartan
+388,Candesartan-Hydrochlorothiazid
+389,Captopril
+390,Captopril-Hydrochlorothiazide
+391,Carvedilol
+392,Carvedilol Phosphate
+393,Clonidine
+394,Clonidine Hcl
+395,Diltiazem Hcl
+396,Doxazosin
+397,Enalapril Maleate
+398,Enalapril-Hydrochlorothiazide
+399,Eplerenone
+400,Eprosartan
+401,Felodipine
+402,Fosinopril
+403,Fosinopril-Hydrochlorothiazide
+404,Guanfacine
+405,Hydralazine
+406,Irbesartan-Hydrochlorothiazide
+407,Isradipine
+408,Labetalol
+409,Lisinopril
+410,Lisinopril-Hydrochlorothiazide
+411,Losartan
+412,Losartan-Hydrochlorothiazide
+413,Methyldopa
+414,Methyldopa-Hydrochlorothiazide
+415,Metolazone
+416,Metoprolol Su-Hydrochlorothiaz
+417,Metoprolol Succinate
+418,Metoprolol Ta-Hydrochlorothiaz
+419,Metoprolol Tartrate
+420,Minoxidil
+421,Moexipril
+422,Nadolol
+423,Nebivolol
+424,Nicardipine
+425,Nifedipine
+426,Nisoldipine
+427,Olmesartan
+428,Olmesartan-Amlodipin-Hcthiazid
+429,Perindopril Erbumine
+430,Perindopril-Amlodipine
+431,Pindolol
+432,Prazosin
+433,Propranolol
+434,Propranolol-Hydrochlorothiazid
+435,Quinapril
+436,Quinapril-Hydrochlorothiazide
+437,Ramipril
+438,Telmisartan
+439,Telmisartan-Amlodipine
+440,Telmisartan-Hydrochlorothiazid
+441,Terazosin
+442,Timolol Maleate
+443,Trandolapril
+444,Trandolapril-Verapamil
+445,Valsartan
+446,Valsartan-Hydrochlorothiazide
+447,Verapamil
+448,Retapamulin
+449,Dimenhydrinate
+450,Clotrimazole
+451,Fluconazole
+452,Nystatin
+453,Crotamiton
+454,Lindane
+455,Permethrin
+456,Benzocaine
+457,DM-Benzocaine-Menthol
+458,Dextromethorphan-Benzocaine
+459,Diphenhydramine Citrate
+460,Diphenhydramine Hcl
+461,"Diphenhydramine Hcl, Clemastine-Phenylprop, Triprolidine-Pseudoephedrine"
+462,"Diphenhydramine Hcl, Dextromethorphan-Guaifenesin, Dextromethorphan Hbr"
+463,"Diphenhydramine Hcl, Diphenhydramine Citrate"
+464,Meclizine
+465,Butoconazole Nitrate
+466,Miconazole Nitrate
+467,Miconazole-Skin Clnsr17
+468,Terconazole
+469,Tioconazole
