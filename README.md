@@ -6,3 +6,5 @@ We decided to use a dataset that used customer reviews to help determine differe
 
 
 For the outside library we chose to focus on the Bokeh python visualization library.  For the code we constructed we used https://github.com/bokeh/bokeh/tree/main/examples/server/app/movies to get an idea on how to create a multi-tooled interactive chart for our visualization.  We found our dataset from https://www.kaggle.com/datasets/thedevastator/drug-performance-evaluation?select=Drug_clean.csv.
+
+For our project, we wanted to ensure that there was no patient information available to us when selecting the data source to ensure we were considering data privacy and not pulling any data that would be in violation of the HIPAA act.  Each entry within our dataset did not have PII available to identify a specific individual or case that would identify an individual as well as any sensitive patient information.  Our data was a compilation of datasets that was originally scarping WebMd data to show the relationship among variables for 37 common health conditions.
